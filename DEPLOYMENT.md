@@ -8,11 +8,11 @@
 
 ## Thông Tin Học Viên
 
-| Mục         | Nội dung                                                                                             |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
-| Họ và tên   | Trần Quốc Toản                                                                                       |
-| Mã học viên | 2A202602984                                                                                          |
-| Repo        | https://github.com/tranquoctoan2004/K4-L3B-TranQuocToan-2A202602984-Cloud-Service-And-Deployment.git |
+| Mục         | Nội dung                                                                                                   |
+| ----------- | ---------------------------------------------------------------------------------------------------------- |
+| Họ và tên   | Trần Quốc Toản                                                                                             |
+| Mã học viên | 2A202602984                                                                                                |
+| Repo        | https://github.com/tranquoctoan2004/K4-L3B-DAY12-TranQuocToan-2A202602984-Cloud-Service-And-Deployment.git |
 
 ## Service
 
